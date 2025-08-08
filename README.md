@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on: **Retention Radar** – an ML-powered churn prediction service using FastAPI & Docker.
 - 🌱 I’m currently learning: **Machine Learning**, **Docker**, and **System Design**.
 - 👯 I’m looking to collaborate on: **Open-source projects**, **internships**, or **freelance software work**.
-- 💬 Ask me about: **Python**, **Web Development**, or **building ML pipelines**.
 - 📫 Reach me at: **najeb101@icloud.com**
 - ⚡ Fun fact: *I love chess, code, and simplifying complex problems with data.*
 
