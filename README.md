@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeb Abdullahi</h1>
-<h3 align="center">Aspiring Software Developer | Passionate about clean code, machine learning, and building real-world applications</h3>
+<h3 align="center"> Developer | Passionate about clean code, machine learning, and building real-world applications</h3>
 
 - 🔭 I’m currently working on: **Retention Radar** – an ML-powered churn prediction service using FastAPI & Docker.
 - 🌱 I’m currently learning: **Machine Learning**, **Docker**, and **System Design**.
